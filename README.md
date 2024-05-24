@@ -8,10 +8,21 @@ Interestingly, Manipuri uses two writing systems: the borrowed Bengali script an
 
 ## Index
 1. [Morphological Analysis](#morphological-analysis)
-2. 
+2. [Syllabification, Stemming, Chunking](#)
+3. [POS Tagging](#)
+4. [Named Entity Recognition](#)
+5. [Word Sense Disambiguation](#)
+6. [RMWE](#)
+7. [Corpus Creation and E-Dictionary](#)
+8. [Parsing](#)
+9. [Machine Translation](#)
+10. [Transliteration](#)
+11. [Sentiment Analysis](#)
+12. [Speech Technologies](#)
+
+
 
 ### Morphological Analysis
-
 
 | Author & Date | Paper | Summary | 
 |:-----------:|:------------:|:------------| 
