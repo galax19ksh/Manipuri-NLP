@@ -6,6 +6,10 @@ Manipuri (Meiteilon), a language of Tibo-Burman origin is the official language 
 
 Interestingly, Manipuri uses two writing systems: the borrowed Bengali script and its own indigenous Meitei Mayek. While most research has focused on Bengali script, Meitei Mayek holds immense potential for future exploration. It's clear that significant progress is needed for both scripts to unlock the full potential of Manipuri NLP. This github repo will serve as the ultimate destination for the analysis of the NLP applications, approaches, challenges and future directions of Manipuri. I will post all papers and updates there has been in this realm with a summary and analysis.
 
+## Index
+1. [Morphological Analysis](#morphological-analysis)
+2. 
+
 ### Morphological Analysis
 
 
