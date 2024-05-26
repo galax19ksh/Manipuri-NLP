@@ -39,7 +39,7 @@ Interestingly, Manipuri uses two writing systems: the borrowed Bengali script an
 | Devi et al.,2022    | [Allomorphs in Meeteilon (Manipuri) Morphology](https://www.nepjol.info/index.php/lsnj/article/view/46557)  | The paper focuses on studying the distribution of phonologically conditioned allomorphs in Meeteilon morphology to understand its morphosyntactic nature, facilitating morpheme segmentation, identification, and parts of speech tagging for natural language processing, alongside an introduction to an optimality theory approach for syllable final devoicing |
 
 
-## Machine Translation
+### Machine Translation
 | Author & Date | Paper | Summary | 
 |:-----------:|:------------:|:------------|
 | Doren et al.,2010 | [Manipuri-English Example Based Machine Translation System](https://www.gelbukh.com/ijcla/2010-1-2/Manipuri-English%20Example.pdf)   | The paper presents a Manipuri-English example-based machine translation system, utilizing parallel corpus alignment techniques including POS tagging, morphological analysis, NER, and chunking, achieving BLEU and NIST scores of 0.137 and 3.361 respectively, outperforming a baseline SMT system with the same training and test data.   | 
