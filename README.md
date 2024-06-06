@@ -39,6 +39,18 @@ Interestingly, Manipuri uses two writing systems: the borrowed Bengali script an
 | Devi et al.,2022    | [Allomorphs in Meeteilon (Manipuri) Morphology](https://www.nepjol.info/index.php/lsnj/article/view/46557)  | The paper focuses on studying the distribution of phonologically conditioned allomorphs in Meeteilon morphology to understand its morphosyntactic nature, facilitating morpheme segmentation, identification, and parts of speech tagging for natural language processing, alongside an introduction to an optimality theory approach for syllable final devoicing |
 
 
+## Syllabification, Stemming, Chunking
+| Author & Date | Paper | Summary | 
+|:-----------:|:------------:|:------------|
+| Nongmeikapam et al.,2012     | [Automatic Segmentation of Manipuri (Meiteilon) Word into Syllabic Units](https://arxiv.org/abs/1207.3932)     | This paper presents an algorithmic approach for automatic segmentation of Manipuri language words into syllabic units, achieving a Recall of 74.77, Precision of 91.21, and F-Score of 82.18. | 
+| Nandakishor et al.,20     | [An HMM based semi-automatic syllable labeling system for Manipuri language](https://ieeexplore.ieee.org/document/7148548)     | This paper develops a Semi-Automatic Syllable Labeling System for Manipuri, utilizing HMM toolkit (HTK) and WaveSurfer, achieving an average deviation of 25 ms and employing detection rates based on time deviations for syllable segmentation. |
+| Gyanendro et al.,20     | [Automatic Syllabification for Manipuri language](https://aclanthology.org/C16-1034/)     | This paper introduces a data-driven method for automatic syllabification by employing entropy-based phonotactic segmentation, sequence labeling approaches, and a hybrid method, achieving up to 98\% word accuracy.|
+| Devi et al.,20     | [Automatic Syllabification Rules for Manipuri Language](https://www.ijarcs.info/index.php/Ijarcs/article/view/2852/0)     |This paper introduces an algorithmic approach for automatic syllabification of the language, achieving 99.8\% accuracy compared to manual syllabification, crucial for tasks like text-to-speech conversion and speech recognition.  |
+| Nongmeikapam et al.,20     | [Chunking in Manipuri Using CRF](https://airccse.org/journal/ijnlc/papers/3314ijnlc12.pdf)     |The paper presents a chunking approach for Manipuri language utilizing Conditional Random Field (CRF) for Part of Speech (POS) tagging, achieving a recall of 71.30\%, precision of 77.36\%, and F-measure of 74.21\%. |
+| Nongmeikapam et al.,20     | [Manipuri Chunking: An Incremental Model with POS and RMWE](https://aclanthology.org/W14-5140/)     | This paper utilizes Support Vector Machine (SVM) for chunking, incorporating Part of Speech (POS) tagging and Reduplicated Multiword Expression (RMWE) features, achieving a final chunking with a recall of 70.45\%, precision of 86.11\%, and F-measure of 77.50\%  |
+| Meetei et al.,20     | [Development of a Manipuri stemmer: A hybrid approach](https://ieeexplore.ieee.org/document/7377328)     |This paper introduces a brute force stemming algorithm for Manipuri, incorporating a suffix stripping technique, crucial for enhancing information retrieval systems in the Manipuri language domain.  |
+
+
 ### Machine Translation
 | Author & Date | Paper | Summary | 
 |:-----------:|:------------:|:------------|
