@@ -10,7 +10,7 @@ Interestingly, Manipuri uses two writing systems: the borrowed Bengali script an
 1. [Morphological Analysis](#morphological-analysis)
 2. [Syllabification, Stemming, Chunking](#syllabification-stemming-chunking)
 3. [POS Tagging](#pOS-tagging)
-4. [Named Entity Recognition](#)
+4. [Named Entity Recognition](#Named-Entity-Recognition)
 5. [Word Sense Disambiguation](#)
 6. [RMWE](#)
 7. [Corpus Creation and E-Dictionary](#)
@@ -65,6 +65,16 @@ Interestingly, Manipuri uses two writing systems: the borrowed Bengali script an
 | Nongmeikapam et al.,2012     | [SVM based Manipuri POS tagging using SVM based identified reduplicated MWE (RMWE)](https://dl.acm.org/doi/10.1145/2381716.2381767)     |This paper employs Support Vector Machine (SVM) for identifying Reduplicated Multiword Expressions (RMWE) in Manipuri, achieving a recall of 86.11\%, precision of 92.08\%, and F-measure of 88.99\%, and subsequently utilizes these identified RMWE as features in SVM-based POS tagging, yielding a recall of 71.15\%, precision of 83.15\%, and F-measure of 76.68\%. |
 | Nongmeikapam et al.,2012     | [Will the Identification of Reduplicated Multiword Expression (RMWE) Improve the Performance of SVM Based Manipuri POS Tagging?](https://link.springer.com/chapter/10.1007/978-3-642-28604-9_10)     | This inspects a possible performance improvement of SVM based Manipuri POS tagging by incorporating identified Reduplicated Multiword Expressions (RMWEs) as an additional feature, resulting in improved performance with an F-Score increase from 77.67\% to 79.61\%. |
 |Singha et al.,2012     | [Part of Speech Tagging in Manipuri with Hidden Markov Model](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=61269edc218657f89014ee616324773de9f689ca)     | This paper employs a stochastic model, Hidden Markov Model, for Part of Speech Tagging in Manipuri, utilizing the tagged output of the Manipuri rule-based tagger as the tagged corpus.  |
+
+## Named Entity Recognition
+| Author & Date | Paper | Summary | 
+|:-----------:|:------------:|:------------|
+| Doren et al.,2009  | [Named Entity Recognition for Manipuri Using Support Vector Machine](https://aclanthology.org/Y09-2045.pdf)     | This paper presents the development of a Manipuri Named Entity Recognition (NER) system utilizing Support Vector Machine (SVM) and active learning techniques, achieving an overall average Recall of 93.91\%, Precision of 95.32\%, and F-Score of 94.59\%. |
+| Doren et al.,2010    | [Web Based Manipuri Corpus for Multiword NER and Reduplicated MWEs Identification using SVM](https://aclanthology.org/W10-3605.pdf)     | This paper describes the development of a web-based Manipuri corpus for identifying reduplicated multiword expressions (MWE) and multiword named entities (NE) using a Support Vector Machine (SVM) learning technique, achieving recall, precision, and F-score values of 94.62\%, 93.53\%, and 94.07\% respectively for reduplicated MWEs, and 94.82\%, 93.12\%, and 93.96\% respectively for multiword NE. |
+| Nongmeikapam et al.,2011   | [CRF based Name Entity Recognition (NER) in Manipuri: A highly agglutinative Indian Language](https://ieeexplore.ieee.org/document/5751390)     |This paper employs Conditional Random Field (CRF) for Manipuri Name Entity Recognition (NER), achieving a Recall of 81.12\%, Precision of 85.67\%, and F-Score of 83.33\%.  |
+| Jimmy et al.,2013   | [Named Entity Recognition in Manipuri: A Hybrid Approach](https://link.springer.com/chapter/10.1007/978-3-642-40722-2_11)     |This paper introduces a hybrid approach to Named Entity Recognition (NER) in Manipuri language, combining Conditional Random Field (CRF) statistical approach with rule-based techniques, achieving Recall, Precision, and F-score of 92.26\%, 94.27\%, and 93.3\% respectively. |
+| Jimmy et al.,2020    | [Deep Neural Model for Manipuri Multiword Named Entity Recognition with Unsupervised Cluster Feature](https://aclanthology.org/2020.icon-main.57/)     |This paper presents an approach for recognizing Multi-Word Named Entities (MNEs) in Manipuri using a Long Short Term Memory (LSTM) recurrent neural network model augmented with Part Of Speech (POS) embeddings and word cluster information obtained through K-means clustering, demonstrating performance comparison with other machine learning-based models.  |
+| Jimmy et al.,2022     | [BiLSTM-CRF Manipuri NER with Character-Level Word Representation](https://link.springer.com/article/10.1007/s13369-022-06933-z)     |This paper proposes a Manipuri Named Entity Recognition (NER) model employing Bidirectional Long Short Term Memory (BiLSTM) deep neural network with character-level word representation and word embedding, augmented by a Conditional Random Field (CRF) classifier, achieving an F-Score measure of approximately 98.19\% with RMSprop Gradient Descent (GD) optimizer, and an average clustering accuracy of 88.14\% for all NE classes. |
 
 ### Machine Translation
 | Author & Date | Paper | Summary | 
