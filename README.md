@@ -9,7 +9,7 @@ Interestingly, Manipuri uses two writing systems: the borrowed Bengali script an
 ## Index
 1. [Morphological Analysis](#morphological-analysis)
 2. [Syllabification, Stemming, Chunking](#syllabification-stemming-chunking)
-3. [POS Tagging](#)
+3. [POS Tagging](#pos-tagging)
 4. [Named Entity Recognition](#)
 5. [Word Sense Disambiguation](#)
 6. [RMWE](#)
@@ -51,6 +51,20 @@ Interestingly, Manipuri uses two writing systems: the borrowed Bengali script an
 | Nongmeikapam et al.,2014     | [Manipuri Chunking: An Incremental Model with POS and RMWE](https://aclanthology.org/W14-5140/)     | This paper utilizes Support Vector Machine (SVM) for chunking, incorporating Part of Speech (POS) tagging and Reduplicated Multiword Expression (RMWE) features, achieving a final chunking with a recall of 70.45\%, precision of 86.11\%, and F-measure of 77.50\%  |
 | Meetei et al.,2015     | [Development of a Manipuri stemmer: A hybrid approach](https://ieeexplore.ieee.org/document/7377328)     |This paper introduces a brute force stemming algorithm for Manipuri, incorporating a suffix stripping technique, crucial for enhancing information retrieval systems in the Manipuri language domain.  |
 
+
+## POS Taggging
+| Author & Date | Paper | Summary | 
+|:-----------:|:------------:|:------------|
+| Doren et al.,2008    | [Morphology Driven Manipuri POS Tagger](https://aclanthology.org/I08-3015.pdf)     | This paper introduces a morphology-driven POS tagger for Manipuri language, utilizing dictionaries of root words, prefixes, and suffixes to achieve an accuracy of 69\% on 3784 sentences containing 10917 unique words. |
+| Doren et al.,2008   | [Manipuri POS Tagging using CRF and SVM: A Language Independent Approach](https://www.academia.edu/1150196/Manipuri_POS_Tagging_using_CRF_and_SVM_A_Language_Independent_Approach)     | This improves the performance of the above Manipuri POS tagger using Conditional Random Field (CRF) and Support Vector Machine (SVM), achieving accuracies of 72.04\% and 74.38\% respectively. |
+| Nongmeikapam et al.,2010  | [CRF Based POS Tagging of Manipuri](https://www.academia.edu/1856859/CRF_Based_POS_Tagging_of_Manipuri)     | This CRF approach achieves a recall of 70.00\%, precision of 77.78\%, and F-measure of 73.68\% |
+| Singha et al.,2012     | [Part of Speech Tagging in Manipuri: A Rule-based Approach](https://research.ijcaonline.org/volume51/number14/pxc3881727.pdf)     | This paper presents a rule-based Part of Speech (POS) tagger for Manipuri, employing hand-written linguistic rules and affix stripping technique to handle the challenges of classifying the lexical categories.   |
+| Nongmeikapam et al.,2012     | [Improvement of CRF Based Manipuri POS Tagger by Using Reduplicated MWE (RMWE)](https://www.semanticscholar.org/paper/Improvement-of-CRF-Based-Manipuri-POS-Tagger-by-MWE-Nongmeikapam/8994caf486abbae92e6bb121fc6608828a4beefd)     | This paper presents a modified feature selection approach for Conditional Random Field (CRF) based Manipuri Part of Speech (POS) tagging, achieving improved performance with a recall of 80.20\%, precision of 74.31\%, and F-measure of 77.14\% by incorporating Reduplicated Multiword Expression (RMWE) as an additional feature.  |
+| Nongmeikapam et al.,2012    | [A Transliteration of CRF based Manipuri POS Tagging](https://www.sciencedirect.com/science/article/pii/S2212017312006159#aep-article-footnote-id3)     | This paper employs Conditional Random Field (CRF) for Part of Speech (POS) tagging of Bengali Script Manipuri text, followed by transliteration to Meitei Mayek script. |
+| Nongmeikapam et al.,2012    | [Transliterated SVM Based Manipuri POS Tagging](https://link.springer.com/chapter/10.1007/978-3-642-30157-5_98)     |This presents a Support Vector Machine (SVM) approach for Part of Speech (POS) tagging of Bengali Script Manipuri text, followed by transliteration to Meitei Mayek.|
+| Nongmeikapam et al.,2012     | [SVM based Manipuri POS tagging using SVM based identified reduplicated MWE (RMWE)](https://dl.acm.org/doi/10.1145/2381716.2381767)     |This paper employs Support Vector Machine (SVM) for identifying Reduplicated Multiword Expressions (RMWE) in Manipuri, achieving a recall of 86.11\%, precision of 92.08\%, and F-measure of 88.99\%, and subsequently utilizes these identified RMWE as features in SVM-based POS tagging, yielding a recall of 71.15\%, precision of 83.15\%, and F-measure of 76.68\%. |
+| Nongmeikapam et al.,2012     | [Will the Identification of Reduplicated Multiword Expression (RMWE) Improve the Performance of SVM Based Manipuri POS Tagging?](https://link.springer.com/chapter/10.1007/978-3-642-28604-9_10)     | This inspects a possible performance improvement of SVM based Manipuri POS tagging by incorporating identified Reduplicated Multiword Expressions (RMWEs) as an additional feature, resulting in improved performance with an F-Score increase from 77.67\% to 79.61\%. |
+|Singha et al.,2012     | [Part of Speech Tagging in Manipuri with Hidden Markov Model](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=61269edc218657f89014ee616324773de9f689ca)     | employs a stochastic model, Hidden Markov Model, for Part of Speech Tagging in Manipuri, utilizing the tagged output of the Manipuri rule-based tagger as the tagged corpus.  |
 
 ### Machine Translation
 | Author & Date | Paper | Summary | 
