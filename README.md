@@ -10,7 +10,7 @@ Interestingly, Manipuri uses two writing systems: the borrowed Bengali script an
 1. [Morphological Analysis](#morphological-analysis)
 2. [Syllabification, Stemming, Chunking](#syllabification-stemming-chunking)
 3. [POS Tagging](#pOS-tagging)
-4. [Named Entity Recognition](#Named-Entity-Recognition)
+4. [Named Entity Recognition](#named-entity-recognition)
 5. [Word Sense Disambiguation](#)
 6. [RMWE](#)
 7. [Corpus Creation and E-Dictionary](#)
