@@ -9,7 +9,7 @@ Interestingly, Manipuri uses two writing systems: the borrowed Bengali script an
 ## Index
 1. [Morphological Analysis](#morphological-analysis)
 2. [Syllabification, Stemming, Chunking](#syllabification-stemming-chunking)
-3. [POS Tagging](#pos-tagging)
+3. [POS Tagging](#POS-tagging)
 4. [Named Entity Recognition](#)
 5. [Word Sense Disambiguation](#)
 6. [RMWE](#)
@@ -64,7 +64,7 @@ Interestingly, Manipuri uses two writing systems: the borrowed Bengali script an
 | Nongmeikapam et al.,2012    | [Transliterated SVM Based Manipuri POS Tagging](https://link.springer.com/chapter/10.1007/978-3-642-30157-5_98)     |This presents a Support Vector Machine (SVM) approach for Part of Speech (POS) tagging of Bengali Script Manipuri text, followed by transliteration to Meitei Mayek.|
 | Nongmeikapam et al.,2012     | [SVM based Manipuri POS tagging using SVM based identified reduplicated MWE (RMWE)](https://dl.acm.org/doi/10.1145/2381716.2381767)     |This paper employs Support Vector Machine (SVM) for identifying Reduplicated Multiword Expressions (RMWE) in Manipuri, achieving a recall of 86.11\%, precision of 92.08\%, and F-measure of 88.99\%, and subsequently utilizes these identified RMWE as features in SVM-based POS tagging, yielding a recall of 71.15\%, precision of 83.15\%, and F-measure of 76.68\%. |
 | Nongmeikapam et al.,2012     | [Will the Identification of Reduplicated Multiword Expression (RMWE) Improve the Performance of SVM Based Manipuri POS Tagging?](https://link.springer.com/chapter/10.1007/978-3-642-28604-9_10)     | This inspects a possible performance improvement of SVM based Manipuri POS tagging by incorporating identified Reduplicated Multiword Expressions (RMWEs) as an additional feature, resulting in improved performance with an F-Score increase from 77.67\% to 79.61\%. |
-|Singha et al.,2012     | [Part of Speech Tagging in Manipuri with Hidden Markov Model](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=61269edc218657f89014ee616324773de9f689ca)     | employs a stochastic model, Hidden Markov Model, for Part of Speech Tagging in Manipuri, utilizing the tagged output of the Manipuri rule-based tagger as the tagged corpus.  |
+|Singha et al.,2012     | [Part of Speech Tagging in Manipuri with Hidden Markov Model](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=61269edc218657f89014ee616324773de9f689ca)     | This paper employs a stochastic model, Hidden Markov Model, for Part of Speech Tagging in Manipuri, utilizing the tagged output of the Manipuri rule-based tagger as the tagged corpus.  |
 
 ### Machine Translation
 | Author & Date | Paper | Summary | 
