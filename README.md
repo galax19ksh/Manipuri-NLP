@@ -52,7 +52,7 @@ Interestingly, Manipuri uses two writing systems: the borrowed Bengali script an
 | Meetei et al.,2015     | [Development of a Manipuri stemmer: A hybrid approach](https://ieeexplore.ieee.org/document/7377328)     |This paper introduces a brute force stemming algorithm for Manipuri, incorporating a suffix stripping technique, crucial for enhancing information retrieval systems in the Manipuri language domain.  |
 
 
-## POS Taggging
+## POS Tagging
 | Author & Date | Paper | Summary | 
 |:-----------:|:------------:|:------------|
 | Doren et al.,2008    | [Morphology Driven Manipuri POS Tagger](https://aclanthology.org/I08-3015.pdf)     | This paper introduces a morphology-driven POS tagger for Manipuri language, utilizing dictionaries of root words, prefixes, and suffixes to achieve an accuracy of 69\% on 3784 sentences containing 10917 unique words. |
