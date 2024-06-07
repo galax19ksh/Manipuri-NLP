@@ -40,7 +40,7 @@ Interestingly, Manipuri uses two writing systems: the borrowed Bengali script an
 
 
 
-## Syllabification, Stemming, Chunking
+### Syllabification, Stemming, Chunking
 | Author & Date | Paper | Summary | 
 |:-----------:|:------------:|:------------|
 | Nongmeikapam et al.,2012     | [Automatic Segmentation of Manipuri (Meiteilon) Word into Syllabic Units](https://arxiv.org/abs/1207.3932)     | This paper presents an algorithmic approach for automatic segmentation of Manipuri language words into syllabic units, achieving a Recall of 74.77, Precision of 91.21, and F-Score of 82.18. | 
@@ -52,7 +52,7 @@ Interestingly, Manipuri uses two writing systems: the borrowed Bengali script an
 | Meetei et al.,2015     | [Development of a Manipuri stemmer: A hybrid approach](https://ieeexplore.ieee.org/document/7377328)     |This paper introduces a brute force stemming algorithm for Manipuri, incorporating a suffix stripping technique, crucial for enhancing information retrieval systems in the Manipuri language domain.  |
 
 
-## POS Tagging
+### POS Tagging
 | Author & Date | Paper | Summary | 
 |:-----------:|:------------:|:------------|
 | Doren et al.,2008    | [Morphology Driven Manipuri POS Tagger](https://aclanthology.org/I08-3015.pdf)     | This paper introduces a morphology-driven POS tagger for Manipuri language, utilizing dictionaries of root words, prefixes, and suffixes to achieve an accuracy of 69\% on 3784 sentences containing 10917 unique words. |
@@ -66,7 +66,7 @@ Interestingly, Manipuri uses two writing systems: the borrowed Bengali script an
 | Nongmeikapam et al.,2012     | [Will the Identification of Reduplicated Multiword Expression (RMWE) Improve the Performance of SVM Based Manipuri POS Tagging?](https://link.springer.com/chapter/10.1007/978-3-642-28604-9_10)     | This inspects a possible performance improvement of SVM based Manipuri POS tagging by incorporating identified Reduplicated Multiword Expressions (RMWEs) as an additional feature, resulting in improved performance with an F-Score increase from 77.67\% to 79.61\%. |
 |Singha et al.,2012     | [Part of Speech Tagging in Manipuri with Hidden Markov Model](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=61269edc218657f89014ee616324773de9f689ca)     | This paper employs a stochastic model, Hidden Markov Model, for Part of Speech Tagging in Manipuri, utilizing the tagged output of the Manipuri rule-based tagger as the tagged corpus.  |
 
-## Named Entity Recognition
+### Named Entity Recognition
 | Author & Date | Paper | Summary | 
 |:-----------:|:------------:|:------------|
 | Doren et al.,2009  | [Named Entity Recognition for Manipuri Using Support Vector Machine](https://aclanthology.org/Y09-2045.pdf)     | This paper presents the development of a Manipuri Named Entity Recognition (NER) system utilizing Support Vector Machine (SVM) and active learning techniques, achieving an overall average Recall of 93.91\%, Precision of 95.32\%, and F-Score of 94.59\%. |
