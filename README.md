@@ -1,6 +1,9 @@
 # Advancements-in-Manipuri-NLP
 My repo "Advancements in Manipuri NLP" will provide a comprehensive study of research papers regarding Natural Language Processing (NLP) applications and developments of Manipuri language. It could be regarded as one of those "awesome" github repos for curated stuffs. 
 
+Note: This is a work in progress. I will be updating every now and then.
+
+
 ## Introduction
 Manipuri (Meiteilon), a language of Tibo-Burman origin is the official language and lingua franca of the northeast Indian state of Manipur. Despite its status as one of India's 22 Scheduled languages and a communication tool for over 1.5 million speakers across states like Manipur, Assam and Tripura, Manipuri remains a low resource language, impeded by sparse annotated data and technological advancements. While Manipuri boasts a rich morphology, complex agglutinative structure, and unique SOV word order, it also presents a thrilling challenge for NLP researchers. This is further compounded by its monosyllabic and compounding nature. Despite these complexities, researchers have made commendable strides in NLP applications like Part-of-Speech tagging, Name Entity Recognition, and machine translation. 
 
