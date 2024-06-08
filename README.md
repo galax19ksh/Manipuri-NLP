@@ -77,7 +77,7 @@ Interestingly, Manipuri uses two writing systems: the borrowed Bengali script an
 | Jimmy et al.,2022     | [BiLSTM-CRF Manipuri NER with Character-Level Word Representation](https://link.springer.com/article/10.1007/s13369-022-06933-z)     |This paper proposes a Manipuri Named Entity Recognition (NER) model employing Bidirectional Long Short Term Memory (BiLSTM) deep neural network with character-level word representation and word embedding, augmented by a Conditional Random Field (CRF) classifier, achieving an F-Score measure of approximately 98.19\% with RMSprop Gradient Descent (GD) optimizer, and an average clustering accuracy of 88.14\% for all NE classes. |
 
 
-## Word Sense Disambiguation
+### Word Sense Disambiguation
 | Author & Date | Paper | Summary | 
 |:-----------:|:------------:|:------------|
 | Singh et al.,2014    | [Word Sense Disambiguation](https://airccse.org/journal/acij/papers/5414acij03.pdf)     |  introduces a word sense disambiguation system for Manipuri language, employing conventional positional and context-based features to predict the senses of polysemous words with an accuracy of 71.75\%.   |
