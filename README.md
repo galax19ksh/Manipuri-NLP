@@ -80,7 +80,7 @@ Interestingly, Manipuri uses two writing systems: the borrowed Bengali script an
 ### Word Sense Disambiguation
 | Author & Date | Paper | Summary | 
 |:-----------:|:------------:|:------------|
-| Singh et al.,2014    | [Word Sense Disambiguation](https://airccse.org/journal/acij/papers/5414acij03.pdf)     |  introduces a word sense disambiguation system for Manipuri language, employing conventional positional and context-based features to predict the senses of polysemous words with an accuracy of 71.75\%.   |
+| Singh et al.,2014    | [Word Sense Disambiguation](https://airccse.org/journal/acij/papers/5414acij03.pdf)     |  This paper introduces a word sense disambiguation system for Manipuri language, employing conventional positional and context-based features to predict the senses of polysemous words with an accuracy of 71.75\%.   |
 
 
 ### Machine Translation
