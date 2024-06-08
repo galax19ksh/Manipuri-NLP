@@ -11,7 +11,7 @@ Interestingly, Manipuri uses two writing systems: the borrowed Bengali script an
 2. [Syllabification, Stemming, Chunking](#syllabification-stemming-chunking)
 3. [POS Tagging](#pOS-tagging)
 4. [Named Entity Recognition](#named-entity-recognition)
-5. [Word Sense Disambiguation](#)
+5. [Word Sense Disambiguation](#word-sense-disambiguation)
 6. [RMWE](#)
 7. [Corpus Creation and E-Dictionary](#)
 8. [Parsing](#)
@@ -75,6 +75,13 @@ Interestingly, Manipuri uses two writing systems: the borrowed Bengali script an
 | Jimmy et al.,2013   | [Named Entity Recognition in Manipuri: A Hybrid Approach](https://link.springer.com/chapter/10.1007/978-3-642-40722-2_11)     |This paper introduces a hybrid approach to Named Entity Recognition (NER) in Manipuri language, combining Conditional Random Field (CRF) statistical approach with rule-based techniques, achieving Recall, Precision, and F-score of 92.26\%, 94.27\%, and 93.3\% respectively. |
 | Jimmy et al.,2020    | [Deep Neural Model for Manipuri Multiword Named Entity Recognition with Unsupervised Cluster Feature](https://aclanthology.org/2020.icon-main.57/)     |This paper presents an approach for recognizing Multi-Word Named Entities (MNEs) in Manipuri using a Long Short Term Memory (LSTM) recurrent neural network model augmented with Part Of Speech (POS) embeddings and word cluster information obtained through K-means clustering, demonstrating performance comparison with other machine learning-based models.  |
 | Jimmy et al.,2022     | [BiLSTM-CRF Manipuri NER with Character-Level Word Representation](https://link.springer.com/article/10.1007/s13369-022-06933-z)     |This paper proposes a Manipuri Named Entity Recognition (NER) model employing Bidirectional Long Short Term Memory (BiLSTM) deep neural network with character-level word representation and word embedding, augmented by a Conditional Random Field (CRF) classifier, achieving an F-Score measure of approximately 98.19\% with RMSprop Gradient Descent (GD) optimizer, and an average clustering accuracy of 88.14\% for all NE classes. |
+
+
+## Word Sense Disambiguation
+| Author & Date | Paper | Summary | 
+|:-----------:|:------------:|:------------|
+| Singh et al.,2014    | [Word Sense Disambiguation](https://airccse.org/journal/acij/papers/5414acij03.pdf)     |  introduces a word sense disambiguation system for Manipuri language, employing conventional positional and context-based features to predict the senses of polysemous words with an accuracy of 71.75\%.   |
+
 
 ### Machine Translation
 | Author & Date | Paper | Summary | 
