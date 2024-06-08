@@ -12,7 +12,7 @@ Interestingly, Manipuri uses two writing systems: the borrowed Bengali script an
 3. [POS Tagging](#pOS-tagging)
 4. [Named Entity Recognition](#named-entity-recognition)
 5. [Word Sense Disambiguation](#word-sense-disambiguation)
-6. [RMWE](#)
+6. [RMWE](#rmwe)
 7. [Corpus Creation and E-Dictionary](#)
 8. [Parsing](#)
 9. [Machine Translation](#machine-translation)
@@ -82,6 +82,15 @@ Interestingly, Manipuri uses two writing systems: the borrowed Bengali script an
 |:-----------:|:------------:|:------------|
 | Singh et al.,2014    | [Word Sense Disambiguation](https://airccse.org/journal/acij/papers/5414acij03.pdf)     |  This paper introduces a word sense disambiguation system for Manipuri language, employing conventional positional and context-based features to predict the senses of polysemous words with an accuracy of 71.75\%.   |
 
+## RMWE 
+| Author & Date | Paper | Summary | 
+|:-----------:|:------------:|:------------|
+| Nongmeikapam et al.,2011  | [Identification of Reduplicated MWEs in Manipuri: A Rule Based Approach](https://www.researchgate.net/profile/Kishorjit-Nongmeikapam/publication/224960630_Kishorjit_Nongmeikapam_Sivaji_BandyopadhyayIdentification_of_Reduplicated_MWEs_in_Manipuri_A_Rule_based_Approached/links/09e414fb5fbaca3b1d000000/Kishorjit-Nongmeikapam-Sivaji-Bandyopadhyay-Identification-of-Reduplicated-MWEs-in-Manipuri-A-Rule-based-Approached.pdf)     |  This paper developes a rule-based model to identify reduplicated Multiword Expressions (MWEs) in Manipuri language texts, achieving an overall average Recall of 94.24\%, Precision of 82.27\%, and F-Score of 87.68\%.   |
+|  Nongmeikapam et al.,2010   | [Identification of MWEs Using CRF in Manipuri and Improvement Using Reduplicated MWEs](https://www.semanticscholar.org/paper/Identification-of-MWEs-Using-CRF-in-Manipuri-and-Bandyopadhyay/a2c55e1b672b5eba4c9c9771bb26edc3e0bb388c)     | This paper employs Conditional Random Field (CRF) machine learning techniques for identifying Multiword Expressions (MWE) in Manipuri text, achieving a recall of 62.24\%, precision of 86.06\%, and F-measure of 72.24\% after accounting for reduplicated MWEs.  |
+| Doren et al.,2010     | [Web Based Manipuri Corpus for Multiword NER and Reduplicated MWEs Identification using SVM](https://aclanthology.org/W10-3605/)     | The paper presents a novel approach utilizing support vector machine (SVM) learning technique for identifying reduplicated multiword expressions (MWE) and multiword named entities (NER) in a web-based Manipuri corpus, achieving recall, precision, and F-score values of 94.62\%, 93.53\%, and 94.07\% respectively for reduplicated MWE. |
+| Nongmeikapam et al.,2011  | [Transliteration of CRF Based Multiword Expression (MWE) in Manipuri](https://ijcsit.com/docs/Volume%202/vol2issue4/ijcsit2011020415.pdf)     | The study focuses on the transliteration of identified Multiword Expressions (MWE) in Manipuri using Conditional Random Field (CRF), achieving a recall of 64.08\%, precision of 86.84\%, and F-measure of 73.74\%, with an accuracy of 90.01\% when comparing the transliterated output with both Meitei Script and Bengali Script Manipuri. |
+| Nongmeikapam et al.,2011    | [Identification of Reduplicated Multiword Expressions Using CRF](https://link.springer.com/chapter/10.1007/978-3-642-19400-9_4)     | The study focuses on the identification of Reduplicated Multiword Expressions (RMWEs) in Manipuri language texts using Conditional Random Field (CRF) tool, achieving overall average recall, precision, and F-score values of 92.91\%, 91.90\%, and 92.40\% respectively.   |
+| Nongmeikapam et al.,2011     | [Genetic Algorithm (GA) in Feature Selection for CRF Based Manipuri Multiword Expression (MWE) Identification](https://arxiv.org/abs/1111.2399)     | The paper presents a feature selection approach using Genetic Algorithm (GA) to enhance the identification of Multiword Expressions (MWEs) in Manipuri using Conditional Random Field (CRF), achieving a recall of 64.08\%, precision of 86.84\%, and F-measure of 73.74\%, demonstrating improvement over CRF-based MWE identification.   |
 
 ### Machine Translation
 | Author & Date | Paper | Summary | 
