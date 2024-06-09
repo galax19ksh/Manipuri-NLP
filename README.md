@@ -96,7 +96,7 @@ Interestingly, Manipuri uses two writing systems: the borrowed Bengali script an
 | Nongmeikapam et al.,2011     | [Genetic Algorithm (GA) in Feature Selection for CRF Based Manipuri Multiword Expression (MWE) Identification](https://arxiv.org/abs/1111.2399)     | The paper presents a feature selection approach using Genetic Algorithm (GA) to enhance the identification of Multiword Expressions (MWEs) in Manipuri using Conditional Random Field (CRF), achieving a recall of 64.08\%, precision of 86.84\%, and F-measure of 73.74\%, demonstrating improvement over CRF-based MWE identification.   |
 
 
-### Corpus Creation & E-Dic
+### Corpus Creation & E-Dictionary
 | Author & Date | Paper | Summary | 
 |:-----------:|:------------:|:------------|
 | Doren et al.,2010    | [Semi–Automatic Parallel Corpora Extraction from Comparable News Corpora](https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-90442010000100003)     | The paper introduces a technique for extracting parallel corpus between Manipuri and English from web-collected news corpora, leveraging morphological information to improve alignment quality, thus demonstrating effectiveness for resource-constrained, agglutinative, and inflective Indian languages.|
