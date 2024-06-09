@@ -95,6 +95,13 @@ Interestingly, Manipuri uses two writing systems: the borrowed Bengali script an
 | Nongmeikapam et al.,2011    | [Identification of Reduplicated Multiword Expressions Using CRF](https://link.springer.com/chapter/10.1007/978-3-642-19400-9_4)     | The study focuses on the identification of Reduplicated Multiword Expressions (RMWEs) in Manipuri language texts using Conditional Random Field (CRF) tool, achieving overall average recall, precision, and F-score values of 92.91\%, 91.90\%, and 92.40\% respectively.   |
 | Nongmeikapam et al.,2011     | [Genetic Algorithm (GA) in Feature Selection for CRF Based Manipuri Multiword Expression (MWE) Identification](https://arxiv.org/abs/1111.2399)     | The paper presents a feature selection approach using Genetic Algorithm (GA) to enhance the identification of Multiword Expressions (MWEs) in Manipuri using Conditional Random Field (CRF), achieving a recall of 64.08\%, precision of 86.84\%, and F-measure of 73.74\%, demonstrating improvement over CRF-based MWE identification.   |
 
+
+### Corpus Creation & E-Dic
+| Author & Date | Paper | Summary | 
+|:-----------:|:------------:|:------------|
+| Doren et al.,2010    | [Semi–Automatic Parallel Corpora Extraction from Comparable News Corpora](https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-90442010000100003)     | The paper introduces a technique for extracting parallel corpus between Manipuri and English from web-collected news corpora, leveraging morphological information to improve alignment quality, thus demonstrating effectiveness for resource-constrained, agglutinative, and inflective Indian languages.|
+| Doren et al.,2012    | [Building Parallel Corpora for SMT System: A Case Study of English-Manipuri](https://research.ijcaonline.org/volume52/number14/pxc3881876.pdf)     | The paper presents a technique for extracting parallel corpus between Manipuri and English from web-based comparable news corpora to improve translation quality in Statistical Machine Translation (SMT) systems for resource-constrained language pairs.|
+
 ### Machine Translation
 | Author & Date | Paper | Summary | 
 |:-----------:|:------------:|:------------|
