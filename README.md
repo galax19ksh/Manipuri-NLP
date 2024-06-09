@@ -16,7 +16,7 @@ Interestingly, Manipuri uses two writing systems: the borrowed Bengali script an
 4. [Named Entity Recognition](#named-entity-recognition)
 5. [Word Sense Disambiguation](#word-sense-disambiguation)
 6. [RMWE](#rmwe)
-7. [Corpus Creation and E-Dictionary](#corpus-creation-&-e-dictionary)
+7. [Corpus Creation & E-Dictionary](#corpus-creation-&-e-dictionary)
 8. [Parsing](#)
 9. [Machine Translation](#machine-translation)
 10. [Transliteration](#)
