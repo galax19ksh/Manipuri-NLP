@@ -54,7 +54,7 @@ Interestingly, Manipuri uses two writing systems: the borrowed Bengali script an
 | Nongmeikapam et al.,2014     | [Manipuri Chunking: An Incremental Model with POS and RMWE](https://aclanthology.org/W14-5140/)     | This paper utilizes Support Vector Machine (SVM) for chunking, incorporating Part of Speech (POS) tagging and Reduplicated Multiword Expression (RMWE) features, achieving a final chunking with a recall of 70.45\%, precision of 86.11\%, and F-measure of 77.50\%  |
 | Meetei et al.,2015     | [Development of a Manipuri stemmer: A hybrid approach](https://ieeexplore.ieee.org/document/7377328)     |This paper introduces a brute force stemming algorithm for Manipuri, incorporating a suffix stripping technique, crucial for enhancing information retrieval systems in the Manipuri language domain.  |
 
-[Go to top](#index)
+                                                                                                                                                   [Go to top](#index)
 
 ### POS Tagging
 | Author & Date | Paper | Summary | 
