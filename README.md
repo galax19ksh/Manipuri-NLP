@@ -17,7 +17,7 @@ Interestingly, Manipuri uses two writing systems: the borrowed Bengali script an
 5. [Word Sense Disambiguation](#word-sense-disambiguation)
 6. [RMWE](#rmwe)
 7. [Corpus Creation & E-Dictionary](#corpus-creation-and-e-dictionary)
-8. [Parsing](#)
+8. [Parsing](#parsing)
 9. [Machine Translation](#machine-translation)
 10. [Transliteration](#)
 11. [Sentiment Analysis](#)
@@ -109,6 +109,14 @@ Interestingly, Manipuri uses two writing systems: the borrowed Bengali script an
 | Meitei et al.,2012     | [Word Search in a WWW Manipuri-English Electronic Dictionary](https://research.ijcaonline.org/volume55/number3/pxc3882969.pdf)     | The paper introduces an online Manipuri-English bilingual dictionary, emphasizing its word search functionality categorized into simple word search, wild card search, and search by lexical item, thereby contributing to language learning and natural language processing. |
 | Meitei et al.,2017     | [DEVELOPMENT OF ENGLISH TO MANIPURI ELECTRONIC DICTIONARY: A database approach](https://www.researchgate.net/publication/316825188_DEVELOPMENT_OF_ENGLISH_TO_MANIPURI_ELECTRONIC_DICTIONARY_A_database_approach)     | The paper outlines the development of an electronic English to Manipuri dictionary based on a database model, providing an advanced alternative to traditional paper dictionaries for language learning and accessibility across various digital platforms.|
 | Singh et al.,2017     | [Corpus & Wordnet Based MMD (Multilingual Manipuri Dictionary)]([https://www.semanticscholar.org/paper/Corpus-%26-Wordnet-Based-MMD-(-Multilingual-Manipuri-Singh-Purkayashtha/0c62c1c278f05908f5972cc21e967bef032d8175)](https://www.ijiras.com/2017/Vol_4-Issue_6/paper_14.pdf))     | The paper describes the development of MMD (Multilingual Manipuri Dictionary), employing a trie (M-ary tree) data structure, to facilitate language learning and various Natural Language Processing (NLP) tasks, including machine translation and corpus-based language processing.|
+
+
+### Parsing
+| Author & Date | Paper | Summary | 
+|:-----------:|:------------:|:------------|
+| Nirmal et al.,2018     | [Problems and Issues in Parsing Manipuri Text](https://link.springer.com/chapter/10.1007/978-981-10-6890-4_38)     | The paper addresses the parsing challenges encountered in Manipuri text, highlighting lexical and attachment ambiguities, as well as word order variations, crucial for developing parsing systems in low-resource languages like Manipuri. |
+| Nirmal et al.,2019    | [A Grammar-Driven Approach for Parsing Manipuri Language](https://link.springer.com/chapter/10.1007/978-3-030-34872-4_30)     | The paper employs context-free grammar (CFG) and Earley’s parsing algorithm for parsing Manipuri language, achieving a Recall of 81.71\%, Precision of 72.38\%, and F-measure of 76.76\%.   |
+| Nirmal et al.,2021    | [A Context-Free Grammar for Parsing Manipuri Language](https://thescipub.com/pdf/jcssp.2021.855.869.pdf)     | The study utilizes a context-free grammar (CFG) approach for parsing Manipuri sentences, achieving a recognition rate of 83.20\% with an Earley’s parser. |
 
 ### Machine Translation
 | Author & Date | Paper | Summary | 
