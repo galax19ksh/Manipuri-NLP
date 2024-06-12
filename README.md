@@ -41,6 +41,7 @@ Interestingly, Manipuri uses two writing systems: the borrowed Bengali script an
 | Bablu et al.,2020     | [Manipuri Morphological Analysis](https://trp.org.in/wp-content/uploads/2021/01/AJCST-Vol.9-No.2-July-December-2020-pp.-4-10.pdf)    |The Morphological Analyzer for Manipuri language, tested on 4500 Manipuri lexicons using Meitei Mayek Unicode as a source, achieves an 84% accuracy rate, providing valuable grammatical information associated with the lexicon for Natural Language Processing applications. |
 | Devi et al.,2022    | [Allomorphs in Meeteilon (Manipuri) Morphology](https://www.nepjol.info/index.php/lsnj/article/view/46557)  | The paper focuses on studying the distribution of phonologically conditioned allomorphs in Meeteilon morphology to understand its morphosyntactic nature, facilitating morpheme segmentation, identification, and parts of speech tagging for natural language processing, alongside an introduction to an optimality theory approach for syllable final devoicing |
 
+[Go to top](#index)
 
 
 ### Syllabification, Stemming, Chunking
@@ -54,7 +55,7 @@ Interestingly, Manipuri uses two writing systems: the borrowed Bengali script an
 | Nongmeikapam et al.,2014     | [Manipuri Chunking: An Incremental Model with POS and RMWE](https://aclanthology.org/W14-5140/)     | This paper utilizes Support Vector Machine (SVM) for chunking, incorporating Part of Speech (POS) tagging and Reduplicated Multiword Expression (RMWE) features, achieving a final chunking with a recall of 70.45\%, precision of 86.11\%, and F-measure of 77.50\%  |
 | Meetei et al.,2015     | [Development of a Manipuri stemmer: A hybrid approach](https://ieeexplore.ieee.org/document/7377328)     |This paper introduces a brute force stemming algorithm for Manipuri, incorporating a suffix stripping technique, crucial for enhancing information retrieval systems in the Manipuri language domain.  |
 
-                                                                                                                                                   [Go to top](#index)
+[Go to top](#index)
 
 ### POS Tagging
 | Author & Date | Paper | Summary | 
@@ -70,6 +71,8 @@ Interestingly, Manipuri uses two writing systems: the borrowed Bengali script an
 | Nongmeikapam et al.,2012     | [Will the Identification of Reduplicated Multiword Expression (RMWE) Improve the Performance of SVM Based Manipuri POS Tagging?](https://link.springer.com/chapter/10.1007/978-3-642-28604-9_10)     | This inspects a possible performance improvement of SVM based Manipuri POS tagging by incorporating identified Reduplicated Multiword Expressions (RMWEs) as an additional feature, resulting in improved performance with an F-Score increase from 77.67\% to 79.61\%. |
 |Singha et al.,2012     | [Part of Speech Tagging in Manipuri with Hidden Markov Model](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=61269edc218657f89014ee616324773de9f689ca)     | This paper employs a stochastic model, Hidden Markov Model, for Part of Speech Tagging in Manipuri, utilizing the tagged output of the Manipuri rule-based tagger as the tagged corpus.  |
 
+[Go to top](#index)
+
 ### Named Entity Recognition
 | Author & Date | Paper | Summary | 
 |:-----------:|:------------:|:------------|
@@ -80,11 +83,15 @@ Interestingly, Manipuri uses two writing systems: the borrowed Bengali script an
 | Jimmy et al.,2020    | [Deep Neural Model for Manipuri Multiword Named Entity Recognition with Unsupervised Cluster Feature](https://aclanthology.org/2020.icon-main.57/)     |This paper presents an approach for recognizing Multi-Word Named Entities (MNEs) in Manipuri using a Long Short Term Memory (LSTM) recurrent neural network model augmented with Part Of Speech (POS) embeddings and word cluster information obtained through K-means clustering, demonstrating performance comparison with other machine learning-based models.  |
 | Jimmy et al.,2022     | [BiLSTM-CRF Manipuri NER with Character-Level Word Representation](https://link.springer.com/article/10.1007/s13369-022-06933-z)     |This paper proposes a Manipuri Named Entity Recognition (NER) model employing Bidirectional Long Short Term Memory (BiLSTM) deep neural network with character-level word representation and word embedding, augmented by a Conditional Random Field (CRF) classifier, achieving an F-Score measure of approximately 98.19\% with RMSprop Gradient Descent (GD) optimizer, and an average clustering accuracy of 88.14\% for all NE classes. |
 
+[Go to top](#index)
+
 
 ### Word Sense Disambiguation
 | Author & Date | Paper | Summary | 
 |:-----------:|:------------:|:------------|
 | Singh et al.,2014    | [Word Sense Disambiguation](https://airccse.org/journal/acij/papers/5414acij03.pdf)     |  This paper introduces a word sense disambiguation system for Manipuri language, employing conventional positional and context-based features to predict the senses of polysemous words with an accuracy of 71.75\%.   |
+
+[Go to top](#index)
 
 ## RMWE 
 | Author & Date | Paper | Summary | 
@@ -96,6 +103,7 @@ Interestingly, Manipuri uses two writing systems: the borrowed Bengali script an
 | Nongmeikapam et al.,2011    | [Identification of Reduplicated Multiword Expressions Using CRF](https://link.springer.com/chapter/10.1007/978-3-642-19400-9_4)     | The study focuses on the identification of Reduplicated Multiword Expressions (RMWEs) in Manipuri language texts using Conditional Random Field (CRF) tool, achieving overall average recall, precision, and F-score values of 92.91\%, 91.90\%, and 92.40\% respectively.   |
 | Nongmeikapam et al.,2011     | [Genetic Algorithm (GA) in Feature Selection for CRF Based Manipuri Multiword Expression (MWE) Identification](https://arxiv.org/abs/1111.2399)     | The paper presents a feature selection approach using Genetic Algorithm (GA) to enhance the identification of Multiword Expressions (MWEs) in Manipuri using Conditional Random Field (CRF), achieving a recall of 64.08\%, precision of 86.84\%, and F-measure of 73.74\%, demonstrating improvement over CRF-based MWE identification.   |
 
+[Go to top](#index)
 
 ### Corpus Creation and E-Dictionary
 | Author & Date | Paper | Summary | 
@@ -111,6 +119,8 @@ Interestingly, Manipuri uses two writing systems: the borrowed Bengali script an
 | Meitei et al.,2017     | [DEVELOPMENT OF ENGLISH TO MANIPURI ELECTRONIC DICTIONARY: A database approach](https://www.researchgate.net/publication/316825188_DEVELOPMENT_OF_ENGLISH_TO_MANIPURI_ELECTRONIC_DICTIONARY_A_database_approach)     | The paper outlines the development of an electronic English to Manipuri dictionary based on a database model, providing an advanced alternative to traditional paper dictionaries for language learning and accessibility across various digital platforms.|
 | Singh et al.,2017     | [Corpus & Wordnet Based MMD (Multilingual Manipuri Dictionary)]([https://www.semanticscholar.org/paper/Corpus-%26-Wordnet-Based-MMD-(-Multilingual-Manipuri-Singh-Purkayashtha/0c62c1c278f05908f5972cc21e967bef032d8175)](https://www.ijiras.com/2017/Vol_4-Issue_6/paper_14.pdf))     | The paper describes the development of MMD (Multilingual Manipuri Dictionary), employing a trie (M-ary tree) data structure, to facilitate language learning and various Natural Language Processing (NLP) tasks, including machine translation and corpus-based language processing.|
 
+[Go to top](#index)
+
 
 ### Parsing
 | Author & Date | Paper | Summary | 
@@ -118,6 +128,8 @@ Interestingly, Manipuri uses two writing systems: the borrowed Bengali script an
 | Nirmal et al.,2018     | [Problems and Issues in Parsing Manipuri Text](https://link.springer.com/chapter/10.1007/978-981-10-6890-4_38)     | The paper addresses the parsing challenges encountered in Manipuri text, highlighting lexical and attachment ambiguities, as well as word order variations, crucial for developing parsing systems in low-resource languages like Manipuri. |
 | Nirmal et al.,2019    | [A Grammar-Driven Approach for Parsing Manipuri Language](https://link.springer.com/chapter/10.1007/978-3-030-34872-4_30)     | The paper employs context-free grammar (CFG) and Earley’s parsing algorithm for parsing Manipuri language, achieving a Recall of 81.71\%, Precision of 72.38\%, and F-measure of 76.76\%.   |
 | Nirmal et al.,2021    | [A Context-Free Grammar for Parsing Manipuri Language](https://thescipub.com/pdf/jcssp.2021.855.869.pdf)     | The study utilizes a context-free grammar (CFG) approach for parsing Manipuri sentences, achieving a recognition rate of 83.20\% with an Earley’s parser. |
+
+[Go to top](#index)
 
 ### Machine Translation
 | Author & Date | Paper | Summary | 
@@ -145,6 +157,8 @@ Interestingly, Manipuri uses two writing systems: the borrowed Bengali script an
 |Singh et al.,2023     | [NITS-CNLP Low-Resource Neural Machine Translation Systems of English-Manipuri Language Pair](https://aclanthology.org/2023.wmt-1.92.pdf)     | This paper presents a transformer-based Neural Machine Translation (NMT) system developed by NITS-CNLP for the English-Manipuri language pair, achieving BLEU scores of 22.75 for English to Manipuri and 26.92 for Manipuri to English translations, along with character level n-gram F-score (chrF), RIBES, TER, and COMET evaluations.  |
 |Agrawal et al.,2023     | [Neural Machine Translation for English - Manipuri and English - Assamese](https://aclanthology.org/2023.wmt-1.86.pdf)  |In the WMT23 shared task: low resource Indic language translation challenge, our team, ATULYA-NITS, utilized the NMT transformer model for English to/from Assamese and English to/from Manipuri language translation, achieving BLEU scores of 15.02 and 18.7 for English to Manipuri and Manipuri to English translations respectively, as well as 5.47 for English to Assamese and 8.5 for Assamese to English translations.|
 
+[Go to top](#index)
+
 
 ### Transliteration
 | Author & Date | Paper | Summary | 
@@ -154,6 +168,8 @@ Interestingly, Manipuri uses two writing systems: the borrowed Bengali script an
 | Nongmeikapam et al.,2012     | [A Transliteration of CRF based Manipuri POS Tagging](https://www.sciencedirect.com/science/article/pii/S2212017312006159)     | Part of Speech (POS) tagging is applied to Bengali Script Manipuri text using Conditional Random Field (CRF), followed by transliteration to Meitei Mayek script, a process common to languages with multiple scripts like Manipuri, which has borrowed the Bengali Script alongside its original Meitei Mayek script. |
 | Laitonjam et al.,2022    | [A Hybrid Machine Transliteration Model Based on Multi-source Encoder–Decoder Framework: English to Manipuri](https://link.springer.com/article/10.1007/s42979-021-01005-9)     | This paper presents a neural hybrid machine transliteration model integrating grapheme and phoneme representations, enhancing traditional encoder-decoder models for multi-source framework, demonstrated through experiments on English to Manipuri transliteration task, showcasing significant performance improvement over its phoneme and grapheme counterparts. |
 
+[Go to top](#index)
+
 ### Sentiment Analysis
 | Author & Date | Paper | Summary | 
 |:-----------:|:------------:|:------------|
@@ -161,6 +177,8 @@ Interestingly, Manipuri uses two writing systems: the borrowed Bengali script an
 | Kaur et al.,2014     | [A Study and Analysis of Opinion Mining Research in Indo-Aryan, Dravidian and Tibeto-Burman Language Families](https://www.indianjournals.com/ijor.aspx?target=ijor:ijdmet&volume=4&issue=2&article=002)    | This paper conducts sentiment analysis across various Indian languages, including Hindi, Bengali, Punjabi, Oriya, Urdu, Marathi, Telugu, and Manipuri, with Oriya text demonstrating superior performance, while suggesting further exploration into Punjabi sentiment analysis and comparing Indian languages' performance with English.  |
 | Meetei et al.,2021    | [Low resource language specific pre-processing and features for sentiment analysis task](https://link.springer.com/article/10.1007/s10579-021-09541-9)     | This work presents sentiment analysis for Manipuri using various machine learning approaches, incorporating language-specific preprocessing tasks and reporting improved classification results in terms of precision, recall, and F-score, particularly with ensemble voting of the top three classifiers based on TF-IDF, along with findings from deep learning-based methods.  |
 | Doren et al.,2021   | [Review Comments of Manipuri Online Video: Good, Bad or Ugly](https://link.springer.com/chapter/10.1007/978-981-33-4084-8_5)     | This paper conducts a comparative analysis of sentiment analysis methodologies, including deep learning, traditional machine learning, and lexicon-based approaches, on a resource-constrained dataset of Manipuri comments from social media platforms, emphasizing the significance of pre-processing and feature engineering.  |
+
+[Go to top](#index)
 
 ### Speech Technologies
 | Author & Date | Paper | Summary | 
@@ -171,3 +189,5 @@ Interestingly, Manipuri uses two writing systems: the borrowed Bengali script an
 | Devi et al.,2021    | [Vowel-Based Acoustic and Prosodic Study of Three Manipuri Dialects](https://link.springer.com/chapter/10.1007/978-981-33-6881-1_34)     | This paper presents a comparative analysis of the acoustic and prosodic features of three major dialects of Manipuri—Imphal, Kakching, and Sekmai—revealing significant dialectal variation through measurements of formant frequency, segment duration, energy values, and pitch values, laying the groundwork for future detailed comparative studies. |
 | Devi et al.,2022    | [Verbs in the Early Speeches of Two Manipuri-Speaking Children](https://www.nepjol.info/index.php/lsnj/article/view/46556)     | This study investigates the development of motion verbs in two Manipuri-speaking children aged 3-5 years, focusing on their emergence and setting the stage for future research, particularly in comparison to Uziel-Karl's (2001) presentation of Hebrew motion verbs.  |
 | Singh et al.,2024     | [MECOS: A bilingual Manipuri–English spontaneous code-switching speech corpus for automatic speech recognition](https://www.sciencedirect.com/science/article/pii/S088523082400010X)     | This study introduces a code-switched speech database for Manipuri–English, comprising 57 hours of annotated spontaneous speech, aiming to construct an automatic speech recognition (ASR) system, with evaluations revealing the superior performance of the pure TDNN model. |
+
+[Go to top](#index)
