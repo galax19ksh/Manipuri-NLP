@@ -1,0 +1,4 @@
+Ideas, new papers, discoveries and suggestions go here for review and organisation purpose.
+
+1. English-Manipuri Machine Translation: An empirical study of different Supervised and Unsupervised Methods (Telem, 2021)
+2.
