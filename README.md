@@ -1,7 +1,8 @@
 # Advancements in NLP for Manipuri Language
 This repository "Advancements in Manipuri NLP" will provide a comprehensive study of research papers regarding Natural Language Processing (NLP) applications and developments of Manipuri language. It could be regarded as one of those "awesome" github repos for curated stuffs. 
 
-**Note:** This is a work in progress. I will be updating every now and then. Suggestions are always welcome!
+**Note:** This is a work in progress. I will be updating every now and then. Suggestions are always welcome! 
+IF YOU ARE WILLING TO CONTRIBUTE TO THIS REPO OR COLLABORATE ON Manipuri-OpenSource-NLP research IN GENERAL, PLEASE FEEL FREE TO REACH ME [here](galaxkshetrimayum16@gmail.com)
 
 
 ## Introduction
