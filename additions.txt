@@ -1,4 +1,5 @@
-Ideas, new papers, discoveries and suggestions go here for review and organisation purpose.
+Ideas, new papers, discoveries and suggestions go here for review and organisation before adding.
 
 1. English-Manipuri Machine Translation: An empirical study of different Supervised and Unsupervised Methods (Telem, 2021)
 2. PMIndia -- A Collection of Parallel Corpora of Languages of India (Hadow et al, 2020)
+3. Stance Detection in Manipuri Editorial Article Using CRF (Binodini et al, 2024)
