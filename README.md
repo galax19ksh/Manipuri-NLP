@@ -75,6 +75,7 @@ Interestingly, Manipuri uses two writing systems: the borrowed Bengali script an
 [Go to top](#index)
 
 ### Named Entity Recognition
+
 | Author & Date | Paper | Summary | 
 |:-----------:|:------------:|:------------|
 | Doren et al.,2009  | [Named Entity Recognition for Manipuri Using Support Vector Machine](https://aclanthology.org/Y09-2045.pdf)     | This paper presents the development of a Manipuri Named Entity Recognition (NER) system utilizing Support Vector Machine (SVM) and active learning techniques, achieving an overall average Recall of 93.91\%, Precision of 95.32\%, and F-Score of 94.59\%. 
@@ -88,6 +89,7 @@ Interestingly, Manipuri uses two writing systems: the borrowed Bengali script an
 
 
 ### Word Sense Disambiguation
+
 | Author & Date | Paper | Summary | 
 |:-----------:|:------------:|:------------|
 | Singh et al.,2014    | [Word Sense Disambiguation](https://airccse.org/journal/acij/papers/5414acij03.pdf)     |  This paper introduces a word sense disambiguation system for Manipuri language, employing conventional positional and context-based features to predict the senses of polysemous words with an accuracy of 71.75\%.   |
@@ -95,6 +97,7 @@ Interestingly, Manipuri uses two writing systems: the borrowed Bengali script an
 [Go to top](#index)
 
 ## RMWE 
+
 | Author & Date | Paper | Summary | 
 |:-----------:|:------------:|:------------|
 | Nongmeikapam et al.,2011  | [Identification of Reduplicated MWEs in Manipuri: A Rule Based Approach](https://www.researchgate.net/profile/Kishorjit-Nongmeikapam/publication/224960630_Kishorjit_Nongmeikapam_Sivaji_BandyopadhyayIdentification_of_Reduplicated_MWEs_in_Manipuri_A_Rule_based_Approached/links/09e414fb5fbaca3b1d000000/Kishorjit-Nongmeikapam-Sivaji-Bandyopadhyay-Identification-of-Reduplicated-MWEs-in-Manipuri-A-Rule-based-Approached.pdf)     |  This paper developes a rule-based model to identify reduplicated Multiword Expressions (MWEs) in Manipuri language texts, achieving an overall average Recall of 94.24\%, Precision of 82.27\%, and F-Score of 87.68\%.   
@@ -107,6 +110,7 @@ Interestingly, Manipuri uses two writing systems: the borrowed Bengali script an
 [Go to top](#index)
 
 ### Corpus Creation and E-Dictionary
+
 | Author & Date | Paper | Summary | 
 |:-----------:|:------------:|:------------|
 | Doren et al.,2010    | [Semi–Automatic Parallel Corpora Extraction from Comparable News Corpora](https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-90442010000100003)     | The paper introduces a technique for extracting parallel corpus between Manipuri and English from web-collected news corpora, leveraging morphological information to improve alignment quality, thus demonstrating effectiveness for resource-constrained, agglutinative, and inflective Indian languages.
@@ -125,6 +129,7 @@ Interestingly, Manipuri uses two writing systems: the borrowed Bengali script an
 
 
 ### Parsing
+
 | Author & Date | Paper | Summary | 
 |:-----------:|:------------:|:------------|
 | Nirmal et al.,2018     | [Problems and Issues in Parsing Manipuri Text](https://link.springer.com/chapter/10.1007/978-981-10-6890-4_38)     | The paper addresses the parsing challenges encountered in Manipuri text, highlighting lexical and attachment ambiguities, as well as word order variations, crucial for developing parsing systems in low-resource languages like Manipuri. 
@@ -134,6 +139,7 @@ Interestingly, Manipuri uses two writing systems: the borrowed Bengali script an
 [Go to top](#index)
 
 ### Machine Translation
+
 | Author & Date | Paper | Summary | 
 |:-----------:|:------------:|:------------|
 | Doren et al.,2010 | [Manipuri-English Example Based Machine Translation System](https://www.gelbukh.com/ijcla/2010-1-2/Manipuri-English%20Example.pdf)   | The paper presents a Manipuri-English example-based machine translation system, utilizing parallel corpus alignment techniques including POS tagging, morphological analysis, NER, and chunking, achieving BLEU and NIST scores of 0.137 and 3.361 respectively, outperforming a baseline SMT system with the same training and test data.   
@@ -163,6 +169,7 @@ Interestingly, Manipuri uses two writing systems: the borrowed Bengali script an
 
 
 ### Transliteration
+
 | Author & Date | Paper | Summary | 
 |:-----------:|:------------:|:------------|
 | Nongmeikapam et al.,2011     | [Manipuri Transliteration from Bengali Script to Meitei Mayek: A Rule Based Approach](https://link.springer.com/chapter/10.1007/978-3-642-19403-0_31)     |This paper presents a novel approach to transliterating Manipuri text from Bengali script to Meitei Mayek (Meitei script), utilizing a rule-based model and algorithm, achieving an impressive accuracy of 86.28\%.  
@@ -173,6 +180,7 @@ Interestingly, Manipuri uses two writing systems: the borrowed Bengali script an
 [Go to top](#index)
 
 ### Sentiment Analysis
+
 | Author & Date | Paper | Summary | 
 |:-----------:|:------------:|:------------|
 | Nongmeikapam et al.,2014    | [Verb Based Manipuri Sentiment Analysis](https://airccse.org/journal/ijnlc/papers/3314ijnlc11.pdf)     | This paper presents a sentiment analysis approach for Manipuri articles, utilizing Part of Speech (POS) tagging with Conditional Random Field (CRF) and a manually modified lexicon of verbs for sentiment polarity determination, achieving a recall of 72.10\%, precision of 78.14\%, and F-measure of 75.00\%. 
@@ -183,6 +191,7 @@ Interestingly, Manipuri uses two writing systems: the borrowed Bengali script an
 [Go to top](#index)
 
 ### Speech Technologies
+
 | Author & Date | Paper | Summary | 
 |:-----------:|:------------:|:------------|
 | Patel et al.,2018     | [An Automatic Speech Transcription System for Manipuri Language](https://www.isca-archive.org/interspeech_2018/patel18b_interspeech.html)     | This paper presents various methaods for language identification, speech-to-text, keyword search, and speaker diarization, integrated into a platform with a user interface for demonstration purposes. 
