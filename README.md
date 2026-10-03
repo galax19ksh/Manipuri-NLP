@@ -58,6 +58,7 @@ Interestingly, Manipuri uses two writing systems: the borrowed Bengali script an
 [Go to top](#index)
 
 ### POS Tagging
+
 | Author & Date | Paper | Summary | 
 |:-----------:|:------------:|:------------|
 | Doren et al.,2008    | [Morphology Driven Manipuri POS Tagger](https://aclanthology.org/I08-3015.pdf)     | This paper introduces a morphology-driven POS tagger for Manipuri language, utilizing dictionaries of root words, prefixes, and suffixes to achieve an accuracy of 69\% on 3784 sentences containing 10917 unique words. 
