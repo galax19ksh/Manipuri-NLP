@@ -44,6 +44,7 @@ Interestingly, Manipuri uses two writing systems: the borrowed Bengali script an
 
 
 ### Syllabification, Stemming, Chunking
+
 | Author & Date | Paper | Summary | 
 |:-----------:|:------------:|:------------|
 | Nongmeikapam et al.,2012     | [Automatic Segmentation of Manipuri (Meiteilon) Word into Syllabic Units](https://arxiv.org/abs/1207.3932)     | This paper presents an algorithmic approach for automatic segmentation of Manipuri language words into syllabic units, achieving a Recall of 74.77, Precision of 91.21, and F-Score of 82.18. | 
